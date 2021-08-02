@@ -9,6 +9,6 @@ If you still have older releases of Sailfish OS available you can contribute to 
 
 
 ### Creating a torrent file
-The easiest way is to use mktorrent command line utily:
+The easiest way is to use mktorrent command line utility:
 
 > mktorrent -a http://tracker.opentrackr.org:1337/announce -l 22 -s PATH-TO-YOUR-RELEASE.zip
